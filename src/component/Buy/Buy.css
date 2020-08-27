@@ -1,0 +1,14 @@
+.buy-container{
+    display: flex;
+    margin-top:50px ;
+}
+.course-container{
+    width: 70%;
+    margin-left: 6%;
+    margin-right: 30px;
+    
+}
+.cart-container{
+    margin-left: 10px;
+    
+}
